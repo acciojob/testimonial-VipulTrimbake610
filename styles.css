@@ -1,1 +1,10 @@
 /*  your css code here. If applicable */
+div{
+	background-color:white;
+	padding:20px;
+}
+
+.right{
+	text-align:right;
+	font-style:italic;
+}
